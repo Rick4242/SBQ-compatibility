@@ -5,6 +5,8 @@ Contains all the race compatibility patches for SBQ
 You can find a template to create compatibility patches [here](https://github.com/WasabiRaptor/SBQ-Race-Compatibility-Tempate)
 Do try and send me the files afterwards or make a pull request to add them into this repository if you do this!
 
+Any Pull Requests for compatibility MUST include screenshots of body parts at full expansion to ensure you have defined palette data correctly. I do not have the time to install every mod to review your patch ingame myself, so you must ensure your own compatibility patch is correct. Many times I have had patches submitted and then months later receive reports they were incomplete or had incorrect color mapping, and then it is expected of me to fix them myself. Often from people only interested in belly entirely ignoring boobs and cock, etc. If you are creating a patch, you are creating a patch for EVERYONE to use, not just yourself.
+
 # Compatible Species
 This mod includes patches for the species below to add compatibility, it should not include any of their respective assets.
 - Human : human
