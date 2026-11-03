@@ -1,6 +1,9 @@
 {
 	"sbqCompatible" : true,
 	"sbqTFAny" : true,
+	"sbqHubNPCs" : [ // list of NPCs that can spawn in the SBQ hub world
+		{"level": 1, "species": "viera", "type": "sbqVoreVillager", "overrides": {}}
+	],
 	"sbqTenantData" : {
 		"colonyTagCriteria" : {
 			"viera" : 8
@@ -46,6 +49,13 @@
 			{"level": 10, "type": "sbqVoreFriendlyGuardTenant", "overrides": {}}
 		]
 	},
+	// compensating for viera height
+	"humanoidOverrides" : {
+		"sbqConfig" : {
+			"modules" : "/humanoid/viera/sbq/sbqModules.config",
+			"animations": ["/humanoid/viera/sbq/base.animation"]
+					}
+	},
 	"baseColorPalette": {
 		"primary": [
 			"5b4839",
@@ -72,8 +82,10 @@
 		]
 	},
 	"sbqSettingsConfig": {
-		"defaultSettings": {"any":{
-			"navelVisible": true
+		"defaultSettings": {
+			"any":{
+				"nipplesVisible" : true,
+				"navelVisible" : true
 		}}
 	},
 	"sbqPartImages": {

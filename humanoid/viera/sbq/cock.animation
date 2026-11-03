@@ -1,0 +1,9 @@
+{
+	"animatedParts":{
+		"parts":{
+			"cock":{"properties":{
+				"offset" : [0,0.25]
+			}}
+		}
+	}
+}

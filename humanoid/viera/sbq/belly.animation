@@ -1,0 +1,14 @@
+{
+	"animatedParts":{
+		"parts":{
+			"belly":{"properties":{
+				"offset" : [0,0.25]}},
+			"tight":{"properties":{
+				"offset" : [0,0.25]}},
+			"pregnant":{"properties":{
+				"offset" : [0,0.25]}},
+			"infused":{"properties":{
+				"offset" : [0,0.25]}}
+			}
+		}
+	}

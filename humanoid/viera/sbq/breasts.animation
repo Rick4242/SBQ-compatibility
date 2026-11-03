@@ -1,0 +1,10 @@
+{
+	"animatedParts":{
+		"parts":{
+			"breasts_right":{"properties":{
+				"offset" : [0,0.25]}},
+			"breasts_left":{"properties":{
+				"offset" : [0,0.25]}}
+			}
+		}
+	}
