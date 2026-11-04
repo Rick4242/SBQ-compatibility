@@ -67,10 +67,13 @@
 			"f7e7b2"
 		],
 		"flesh": [
-			"951500",
 			"be1b00",
 			"dc1f00",
 			"f32200"
+		],
+		"tertiary": [
+			"005C95",
+			"0088DF"
 		]
 	},
 	"humanoidOverrides" : {
@@ -464,7 +467,7 @@
 				],
 				[
 					"flesh",
-					"flesh"
+					"tertiary"
 				]
 			]
 		},
