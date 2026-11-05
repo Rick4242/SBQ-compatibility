@@ -45,28 +45,34 @@
 	},
 	// custom animation parameters for this species
 	"baseColorPalette": {
-		"primary": [
+		"skin": [
 			"c7815b",
 			"d39c6c",
 			"ffc181",
 			"ffe2c5"
 		],
-		"secondary": [
-			"6b0e00",
+		"primary": [
+			"6B0E00",
 			"951500",
-			"dc1f00",
-			"be1b00"
+			"BE1B00",
+			"DC1F00"
+		],
+		"secondary": [
+			"642F00",
+			"A46E06",
+			"E2C344",
+			"FFFFA7"
 		],
 		"hair": [
-			"e2c344",
+			"735e3a",
 			"a38d59",
 			"d9c189",
-			"dc1f00"
+			"f7e7b2"
 		],
 		"flesh": [
-			"e2c344",
-			"e2c344",
-			"e2c344"
+			"702c55",
+			"8b3c6c",
+			"a94783"
 		]
 	},
 	"sbqSettingsConfig": {
@@ -112,11 +118,11 @@
 			"remapDirectives": [
 				[
 					"primary",
-					"secondary"
+					"primary"
 				],
 				[
 					"secondary",
-					"primary"
+					"secondary"
 				]
 			]
 		},
@@ -125,11 +131,11 @@
 			"remapDirectives": [
 				[
 					"primary",
-					"secondary"
+					"primary"
 				],
 				[
 					"secondary",
-					"primary"
+					"secondary"
 				]
 			]
 		},
@@ -138,11 +144,11 @@
 			"remapDirectives": [
 				[
 					"primary",
-					"secondary"
+					"primary"
 				],
 				[
 					"secondary",
-					"primary"
+					"secondary"
 				]
 			]
 		},
@@ -151,11 +157,11 @@
 			"remapDirectives": [
 				[
 					"primary",
-					"secondary"
+					"primary"
 				],
 				[
 					"secondary",
-					"primary"
+					"secondary"
 				]
 			]
 		},
@@ -164,11 +170,11 @@
 			"remapDirectives": [
 				[
 					"primary",
-					"secondary"
+					"primary"
 				],
 				[
 					"secondary",
-					"primary"
+					"secondary"
 				]
 			]
 		},
@@ -177,11 +183,11 @@
 			"remapDirectives": [
 				[
 					"primary",
-					"secondary"
+					"primary"
 				],
 				[
 					"secondary",
-					"primary"
+					"secondary"
 				]
 			]
 		},
@@ -320,7 +326,7 @@
 			"remapDirectives": [
 				[
 					"primary",
-					"primary"
+					"skin"
 				]
 			]
 		},
@@ -330,7 +336,7 @@
 			"remapDirectives": [
 				[
 					"primary",
-					"primary"
+					"skin"
 				]
 			]
 		},
@@ -340,7 +346,7 @@
 			"remapDirectives": [
 				[
 					"primary",
-					"primary"
+					"skin"
 				]
 			]
 		},
@@ -350,7 +356,7 @@
 			"remapDirectives": [
 				[
 					"primary",
-					"primary"
+					"skin"
 				]
 			]
 		},
@@ -359,7 +365,7 @@
 			"remapDirectives": [
 				[
 					"primary",
-					"primary"
+					"skin"
 				]
 			]
 		},
@@ -368,7 +374,7 @@
 			"remapDirectives": [
 				[
 					"primary",
-					"primary"
+					"skin"
 				]
 			]
 		},
@@ -377,7 +383,7 @@
 			"remapDirectives": [
 				[
 					"primary",
-					"primary"
+					"skin"
 				]
 			]
 		},
@@ -386,7 +392,7 @@
 			"remapDirectives": [
 				[
 					"primary",
-					"primary"
+					"skin"
 				]
 			]
 		},
@@ -395,7 +401,7 @@
 			"remapDirectives": [
 				[
 					"primary",
-					"primary"
+					"skin"
 				]
 			]
 		},
@@ -404,7 +410,7 @@
 			"remapDirectives": [
 				[
 					"primary",
-					"primary"
+					"skin"
 				]
 			]
 		},
@@ -431,15 +437,15 @@
 			"remapDirectives": [
 				[
 					"primary",
-					"primary"
+					"skin"
 				],
 				[
 					"primary_180",
-					"flesh"
+					"skin"
 				],
 				[
 					"flesh",
-					"secondary"
+					"flesh"
 				]
 			]
 		},
@@ -448,15 +454,15 @@
 			"remapDirectives": [
 				[
 					"primary",
-					"primary"
+					"skin"
 				],
 				[
 					"primary_180",
-					"flesh"
+					"skin"
 				],
 				[
 					"flesh",
-					"secondary"
+					"flesh"
 				]
 			]
 		},
@@ -468,11 +474,11 @@
 				],
 				[
 					"primary",
-					"primary"
+					"skin"
 				],
 				[
 					"flesh",
-					"secondary"
+					"flesh"
 				]
 			]
 		},
@@ -484,11 +490,11 @@
 				],
 				[
 					"primary",
-					"primary"
+					"skin"
 				],
 				[
 					"flesh",
-					"secondary"
+					"flesh"
 				]
 			]
 		},
@@ -497,15 +503,15 @@
 			"remapDirectives": [
 				[
 					"primary",
-					"primary"
+					"skin"
 				],
 				[
 					"primary_180",
-					"flesh"
+					"skin"
 				],
 				[
 					"flesh",
-					"primary"
+					"skin"
 				]
 			]
 		},
@@ -514,15 +520,15 @@
 			"remapDirectives": [
 				[
 					"primary",
-					"primary"
+					"skin"
 				],
 				[
 					"primary_180",
-					"flesh"
+					"skin"
 				],
 				[
 					"flesh",
-					"primary"
+					"skin"
 				]
 			]
 		},
@@ -534,11 +540,11 @@
 				],
 				[
 					"primary",
-					"primary"
+					"skin"
 				],
 				[
 					"flesh",
-					"primary"
+					"skin"
 				]
 			]
 		},
@@ -550,11 +556,11 @@
 				],
 				[
 					"primary",
-					"primary"
+					"skin"
 				],
 				[
 					"flesh",
-					"primary"
+					"skin"
 				]
 			]
 		}
